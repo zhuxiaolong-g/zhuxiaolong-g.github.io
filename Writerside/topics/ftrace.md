@@ -1,3 +1,0 @@
-# ftrace
-
-Start typing here...
